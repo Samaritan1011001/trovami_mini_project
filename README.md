@@ -1,4 +1,4 @@
-# locate_pal
+# Trovami
 
 A new Flutter project.
 
